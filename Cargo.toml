@@ -31,7 +31,7 @@ path = "src/main.rs"
 anyhow = "1.0.75"
 clap = { version = "4.4.8", features = ["derive", "env", "cargo"] }
 dialoguer = "0.11.0"
-dirs = "4.0.0"
+dirs = "5.0.1"
 itertools = "0.12.0"
 node-semver = "2.1.0"
 serde = { version = "1.0.192", features = ["derive"] }
