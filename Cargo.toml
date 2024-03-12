@@ -28,7 +28,7 @@ path = "src/main.rs"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-anyhow = "1.0.75"
+anyhow = "1.0.81"
 clap = { version = "4.4.11", features = ["derive", "env", "cargo"] }
 dialoguer = "0.11.0"
 dirs = "4.0.0"
