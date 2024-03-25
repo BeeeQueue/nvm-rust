@@ -29,7 +29,7 @@ path = "src/main.rs"
 
 [dependencies]
 anyhow = "1.0.75"
-clap = { version = "4.4.11", features = ["derive", "env", "cargo"] }
+clap = { version = "4.5.4", features = ["derive", "env", "cargo"] }
 dialoguer = "0.11.0"
 dirs = "4.0.0"
 itertools = "0.12.0"
